@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Other common entries
+.DS_Store
+.env
